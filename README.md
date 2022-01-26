@@ -1,10 +1,21 @@
 ## Olá!👋 Eu sou o Daniel Frebone
+<ul>
+  <li>👨‍💻 Sou Desenvolvedor Front-end</li>
+
+  <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas na Faculdade IESCAMP</li>
+
+  <li>🤳 Compartilho dicas e conteúdos para desenvolvedores no <a href="https://www.instagram.com/danielfrebone.dev">Instagram</a></li> 
+</ul>
+
+##
 
 <div align="center">
   <a href="https://github.com/danielfrebone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielfrebone&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrebone&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
